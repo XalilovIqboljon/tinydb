@@ -1,0 +1,19 @@
+{
+    "_default": {},
+    "t1": {
+        "1": {
+            "name": "Iqboljon"
+        },
+        "2": {
+            "name": "Umidjon"
+        }
+    },
+    "t2": {
+        "1": {
+            "name": "Azizbek"
+        },
+        "2": {
+            "name": "Nurbek"
+        }
+    }
+}
