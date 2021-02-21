@@ -1,6 +1,8 @@
-from tinydb import TinyDB
+from tinydb import TinyDB, Query
 from pprint import pprint
 db=TinyDB('data.json')
 data=db.all()
-for i in data:
-    print(i['name'][0])
+q=Query()
+user=db.search(q.age==18)
+for i in user:
+    pprint(i)
