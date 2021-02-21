@@ -1,0 +1,16 @@
+{
+    "_default": {
+        "1": {
+            "name": "Sanjar",
+            "age": 18
+        },
+        "2": {
+            "name": "Olimjon",
+            "age": 18
+        },
+        "3": {
+            "name": "Javohir",
+            "age": 21
+        }
+    }
+}
